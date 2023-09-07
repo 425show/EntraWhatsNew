@@ -9,9 +9,9 @@
 - TBD
   
 # Description
-- Join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team, in the monthly series to highlight what is new across public preview and GA features in Microsoft Entra for September 2023!
+Join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team, in the monthly series to highlight what is new across public preview and GA features in Microsoft Entra for September 2023!
 
-- Be on the lookout for the next livestream for you to ask your questions directly by subscribing to the channel and following us on LinkedIn.
+Be on the lookout for the next livestream for you to ask your questions directly by subscribing to the channel and following us on LinkedIn.
 
 # Links
 - https://aka.ms/425show/TRV2
@@ -24,7 +24,7 @@
 
 # Presentation
 
-
+[425 Show What is New on Microsoft Entra ID - September 2023](https://github.com/425show/EntraWhatsNew/blob/main/2023/Sept/425%20Show%20Connect%20September%202023.pptx)
 
 # Chapters:
 ---------------------------
