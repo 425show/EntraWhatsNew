@@ -5,12 +5,8 @@
 - TBD
   
 # Description
-What's New Microsoft Entra September 2023
-
-Join Grace Picking and Jorge A Lopez to discuss all the latest features and functionality you might have missed in the last month
-
-Please LIKE, and COMMENT on what else you would like to see in monthly Microsoft Entra updates and any feedback for this format!  
-
+With so many new features being added to the Microsoft Entra Identity platform,  join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team, in the monthly series to highlight what is new across public preview and GA features in Microsoft Entra for September 2023!
+ 
 Be on the lookout for the next livestream for you to ask your questions directly by subscribing to the channel and following us on LinkedIn.
 
 # Links
