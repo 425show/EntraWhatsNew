@@ -1,2 +1,2 @@
 # EntraWhatsNew
-What's New in Entra Show series
+What's New in Entra Show series Assets
