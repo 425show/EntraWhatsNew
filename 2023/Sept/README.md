@@ -1,3 +1,7 @@
+# Presented By 
+- Grace Picking, Senior Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/grace-picking) 
+- Jorge Lopez, Senior Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/jorgealopez1/) | [Twitter](https://twitter.com/JorgeALopez)
+
 # Full Recording
 [Sept. 2023 - What's New in Microsoft Entra Identity & Security w/ Microsoft Security CxE identity](https://www.youtube.com/watch?v=0FgZcK4VVao)
 
