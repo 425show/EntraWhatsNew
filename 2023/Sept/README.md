@@ -9,9 +9,8 @@
 - TBD
   
 # Description
-With so many new features being added to the Microsoft Entra Identity platform,  join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team, in the monthly series to highlight what is new across public preview and GA features in Microsoft Entra for September 2023!
- 
-Be on the lookout for the next livestream for you to ask your questions directly by subscribing to the channel and following us on LinkedIn.
+Join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team, in the monthly series to highlight what is new across public preview and GA features in Microsoft Entra for September 2023!
+ Be on the lookout for the next livestream for you to ask your questions directly by subscribing to the channel and following us on LinkedIn.
 
 # Links
 - https://aka.ms/425show/TRV2
