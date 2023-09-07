@@ -1,6 +1,8 @@
-# Recording
+# Full Recording
 [August 2023 - What's New in Microsoft Entra Identity & Security w/ Microsoft Security CxE identity](https://youtu.be/Q6xtWIMHsxc)
 
+# Clips
+- [Microsoft Entra  - What's New August 2023](https://youtube.com/shorts/JtbiNbQb6y4)
 # Description
 With so many new features being added to the Microsoft Entra Identity platform,  join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team,  in the first of a monthly series to highlight what is new across public preview and GA features in Microsoft Entra for August 2023!
 
@@ -13,6 +15,9 @@ Be on the lookout for the next livestream for you to ask your questions directly
 - https://aka.ms/425show/EntraIDG/Overview
 - https://aka.ms/425show/AuthMethodsAct...
 - https://aka.ms/425show
+
+# Presentation
+
 
 # Chapters:
 ---------------------------
