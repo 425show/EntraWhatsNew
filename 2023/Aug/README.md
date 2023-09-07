@@ -22,6 +22,7 @@ Be on the lookout for the next livestream for you to ask your questions directly
 
 # Presentation
 
+[What is New in Microsoft Entra ID - August 2023](https://github.com/425show/EntraWhatsNew/blob/main/2023/Aug/What%20is%20new%20in%20Microsoft%20Entra%20ID%20August%202023.pdf) 
 
 # Chapters:
 ---------------------------
