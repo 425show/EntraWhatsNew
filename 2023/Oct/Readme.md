@@ -1,6 +1,7 @@
 # Presented By 
 - Grace Picking, Senior Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/grace-picking) 
 - Jorge Lopez, Senior Product Manager, Identity team | [LinkedIn](https://www.linkedin.com/in/jorgealopez1/) | [Twitter](https://twitter.com/JorgeALopez)
+- **Special Guest**: Luis Leon Plata, Senior Product Manager Azure RBAC | [LinkedIn](https://www.linkedin.com/in/lcleonp)
 
 # Full Recording
 [October 2023 - What's New in Microsoft Entra Identity & Security w/ Microsoft Security CxE identity](https://www.youtube.com/watch?v=9dGvvX-7xj0)
@@ -21,7 +22,7 @@ Be on the lookout for the next livestream for you to ask your questions directly
 
 # Presentation
 
-[425 Show What is New on Microsoft Entra ID - October 2023] - TBD
+[425 Show What is New on Microsoft Entra ID - October 2023](https://github.com/425show/EntraWhatsNew/blob/main/2023/Oct/425%20Show%20Connect%20October%202023.pdf)
 
 # Chapters:
 ---------------------------
