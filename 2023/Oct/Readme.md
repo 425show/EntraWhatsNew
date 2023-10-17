@@ -10,7 +10,7 @@
 - TBD
   
 # Description
-Join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team, in the monthly series to highlight what is new across public preview and GA features in Microsoft Entra for October 2023!
+Join Product Managers Grace Picking and Jorge Lopez from the Microsoft Security CxE team, in the monthly series to highlight what is new across public preview and GA features in Microsoft Entra for October 2023! This time we have a special Guest! Luis Leon Plata from the Microsoft Azure RBAC team to talk to us about a new feature for RBAC control
 
 Be on the lookout for the next livestream for you to ask your questions directly by subscribing to the channel and following us on LinkedIn.
 
