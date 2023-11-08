@@ -16,8 +16,8 @@ Be on the lookout for the next livestream for you to ask your questions directly
 
 # Links
 - https://aka.ms/425show/LAPS
-- https://aka.ms/LAPSGetStarted
-- https://aka.ms/LAPSIntunePolicies
+- https://aka.ms/425show/LAPSGetStarted
+- https://aka.ms/425show/LAPSIntunePolicies
 - https://aka.ms/425show/catemplates
 - https://aka.ms/425show/caadminportals
 - https://aka.ms/425show/MAMpolicies
