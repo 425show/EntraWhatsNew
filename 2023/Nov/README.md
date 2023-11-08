@@ -28,7 +28,7 @@ Be on the lookout for the next livestream for you to ask your questions directly
 
 # Presentation
 
-[425 Show What is New on Microsoft Entra ID - November 2023] - TBD 
+[425 Show What is New on Microsoft Entra ID - November 2023](https://github.com/425show/EntraWhatsNew/blob/main/2023/Nov/425%20Show%20Whats%20New%20in%20Entra%20ID%20November%202023.pdf)
 
 # Chapters:
 ---------------------------
